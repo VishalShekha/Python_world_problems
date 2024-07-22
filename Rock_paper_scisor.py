@@ -56,6 +56,7 @@ def checkWin(player, computer):
         return "Type Rock , Paper , Scissors... to get the resulit."
 
 '''
+
 instead of this you can do this ^
 
     elif player ==lit[0] and computer == lit[1]:
